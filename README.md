@@ -1,7 +1,7 @@
 # VIX_vertex_prediction
 
 ### CodeBase
-- a directory including all files used for this research
+- CodeBase includes all python files used for the research. All HTML files are of interactive plotly visualizations of the projects results. 
 - nb0_*.ipynb : are notebook files revolving data extraction, cleaning, target creation, and feature engineering. The notebooks include visuals of the process.
 - s1_*.py : files revolve arround the ETL-pipeline, creating functions for used to load data in the project
 - s2_*.py : files are used for creating and training LSTM models, along with the baseline model
